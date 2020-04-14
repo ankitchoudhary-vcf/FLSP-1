@@ -1,5 +1,8 @@
 # FLSP-1
 assignments and mini projects during folks prime session-1
+
+
+
 """
 Code Challenge
   Name: 
@@ -13,6 +16,7 @@ Code Challenge
   Output: 
     RESTA$T
 """
+
 
 
 """
@@ -33,6 +37,8 @@ Code Challenge
     4 
     Buzz  
 """
+
+
 
 """
 Name: 
@@ -64,6 +70,8 @@ Sample Output:
     {'c': 1, 'e': 1, 'g': 2, 'm': 1, 'l': 1, 'o': 3, '.': 2, 'w': 3}
 """ 
 
+
+"""
 Name: 
     Unlucky 13         
 Filename:
@@ -82,4 +90,4 @@ Sample Input:
     13, 1, 2, 13, 2, 1, 13 
 Sample Output:
     3 
-""
+"""
